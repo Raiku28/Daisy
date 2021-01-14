@@ -64,3 +64,10 @@ Command: cd hadoop-2.7.3/sbin
 
 Step 14: To check that all the Hadoop services are up and running, run the below command.
 Command: jps
+
+![image](https://user-images.githubusercontent.com/77367704/104584181-22e1a700-569d-11eb-8ed2-db7948e11e11.png)
+
+Advantages:
+Advanced data analysis can be done in-house – Hadoop makes it practical to work with large data sets and customize the outcome without having to outsource the task to specialist service providers. Keeping operations in-house helps organizations be more agile, while also avoiding the ongoing operational expense of outsourcing.
+Organizations can fully leverage their data – One alternative to not using Hadoop is simply not to use all the data and inputs that are available to support business activity. With Hadoop organizations can take full advantage of all their data – structured and unstructured, real-time and historical. Leveraging adds more value to the data itself and improves the return on investment (ROI) for the legacy systems used to collect, process, and store the data, including ERP and CRM systems, social media programs, sensors, industrial automation systems, etc.
+Run a commodity vs. custom architecture – Some of the tasks that Hadoop is being used for today were formerly run by MPCC and other specialty, expensive computer systems. Hadoop commonly runs on commodity hardware. Because it is the de facto big data standard, it is supported by a large and competitive solution provider community, which protects customers from vendor lock-in.
